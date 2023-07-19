@@ -1,1 +1,1 @@
-# FedContrast-GPA
+This is the repository for our paper entitled "FedContrast-GPA: Heterogeneous Federated Optimization via Local Contrastive Learning and Global Process-aware Aggregation", which was already acceped in MICCAI 2023. We will release our implementation soon.
